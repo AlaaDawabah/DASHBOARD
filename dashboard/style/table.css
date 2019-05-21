@@ -1,0 +1,18 @@
+
+.jumbotron h2{
+   color:rgb(128, 10, 10);
+
+}
+
+table th{
+    background-color: rgb(128, 10, 10);
+    color:#fff;
+}
+
+table td{
+    border:  rgb(128, 10, 10) solid 1px !important
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(248, 245, 241);
+}
+
+h1, label{
+    
+    color:rgb(138, 14, 66);;
+}
+
+.btn{
+    background-color: rgb(138, 14, 66);
+    color: #fff;
+}

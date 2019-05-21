@@ -1,0 +1,67 @@
+
+body{
+    background-image: url("../images/flower.jpg");
+   /* background-repeat:repeat-y;
+   background-position-x: center; */
+    background-size: contain;
+    
+    
+   
+}
+aside{
+    height: 200px;
+    background-color: red;
+}
+.blog .card{
+    padding: 20px 0;
+    margin: 20px 0; 
+    border: 1px solid rgb(3, 104, 104);
+    transition: all 0.5s ease;
+}
+nav{
+    background-color: rgb(60, 143, 143);
+ 
+}
+ a{
+    color:#fff;
+    text-decoration: none;
+}
+a:hover{
+    transform: scale(1.1);
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+.jumbotron{
+    background-color: rgb(227, 233, 233);
+    color:rgb(105, 93, 93);
+}
+.side-bar{
+    /* background-color: rgb(96, 182, 182); */
+    margin-top: 200px;
+}
+.side-bar .rounded img{
+   margin: 100px 0;
+    width: 100%;
+    filter: sepia(60%);
+   
+}
+
+.News{
+    border: 2px solid rgb(240, 220, 220);
+    margin-bottom:200px;
+}
+ .Ads .card{
+    margin:250px 0;
+    -webkit-box-shadow: 0px 10px 25px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 10px 25px -6px rgba(0,0,0,0.75);
+box-shadow: 0px 10px 25px -6px rgba(0,0,0,0.75);
+
+}
+.groupArticles .card{
+    margin: 100px 0;
+}
+h4{
+    color:rgb(45, 49, 49);
+    border-bottom: 1px solid rgb(3, 104, 104);
+    padding-bottom: 5px;
+}
